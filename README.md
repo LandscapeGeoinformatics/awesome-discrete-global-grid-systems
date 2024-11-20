@@ -1,7 +1,7 @@
 <h1 align="center">Awesome Discrete Global Grid Systems (DGGS)</h1>
 <p align="center"><i>A collection of DGGS resources for science and standards, and fun and profit.</i></p>
 <div align="center">
-<img alt="different DGGS configurations" src="day-10-grids.png">
+<img alt="different DGGS configurations" src="day-10-grids.png" height="400px">
 </div>
 
 <div align="center">
