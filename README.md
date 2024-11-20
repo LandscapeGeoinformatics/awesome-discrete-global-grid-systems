@@ -1,13 +1,17 @@
 <h1 align="center">Awesome Discrete Global Grid Systems (DGGS)</h1>
 <p align="center"><i>A collection of DGGS resources for science and standards, and fun and profit.</i></p>
 <div align="center">
+<img alt="different DGGS configurations" src="day-10-grids.png">
+</div>
+
+<div align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"/></a>
   <a href="https://github.com/LandscapeGeoinformatics/awesome-discrete-global-grid-systems/stargazers"><img src="https://img.shields.io/github/stars/LandscapeGeoinformatics/awesome-discrete-global-grid-systems" alt="Stars Badge"/></a>
-<a href="https://github.com/LandscapeGeoinformatics/awesome-discrete-global-grid-systems/network/members"><img src="https://img.shields.io/github/forks/LandscapeGeoinformatics/awesome-discrete-global-grid-systems" alt="Forks Badge"/></a>
-<a href="https://github.com/LandscapeGeoinformatics/awesome-discrete-global-grid-systems/pulls"><img src="https://img.shields.io/github/issues-pr/LandscapeGeoinformatics/awesome-discrete-global-grid-systems" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/LandscapeGeoinformatics/awesome-discrete-global-grid-systems/issues"><img src="https://img.shields.io/github/issues/LandscapeGeoinformatics/awesome-discrete-global-grid-systems" alt="Issues Badge"/></a>
-<a href="https://github.com/LandscapeGeoinformatics/awesome-discrete-global-grid-systems/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/LandscapeGeoinformatics/awesome-discrete-global-grid-systems?color=2b9348"></a>
-<a href="https://github.com/LandscapeGeoinformatics/awesome-discrete-global-grid-systems/blob/master/LICENSE.txt"><img src="https://img.shields.io/github/license/LandscapeGeoinformatics/awesome-discrete-global-grid-systems?color=2b9348" alt="CC0 License Badge"/></a>
+  <a href="https://github.com/LandscapeGeoinformatics/awesome-discrete-global-grid-systems/network/members"><img src="https://img.shields.io/github/forks/LandscapeGeoinformatics/awesome-discrete-global-grid-systems" alt="Forks Badge"/></a>
+  <a href="https://github.com/LandscapeGeoinformatics/awesome-discrete-global-grid-systems/pulls"><img src="https://img.shields.io/github/issues-pr/LandscapeGeoinformatics/awesome-discrete-global-grid-systems" alt="Pull Requests Badge"/></a>
+  <a href="https://github.com/LandscapeGeoinformatics/awesome-discrete-global-grid-systems/issues"><img src="https://img.shields.io/github/issues/LandscapeGeoinformatics/awesome-discrete-global-grid-systems" alt="Issues Badge"/></a>
+  <a href="https://github.com/LandscapeGeoinformatics/awesome-discrete-global-grid-systems/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/LandscapeGeoinformatics/awesome-discrete-global-grid-systems?color=2b9348"></a>
+  <a href="https://github.com/LandscapeGeoinformatics/awesome-discrete-global-grid-systems/blob/master/LICENSE.txt"><img src="https://img.shields.io/github/license/LandscapeGeoinformatics/awesome-discrete-global-grid-systems?color=2b9348" alt="CC0 License Badge"/></a>
 </div>
 <br>
 <p align="center"><i>Love the project and want to build with DGGS? Get in touch on the <a href="https://discourse.pangeo.io/t/discrete-global-grid-systems-dggs-use-with-pangeo/2274">Pangeo DGGS Discourse thread</a></i></p>
