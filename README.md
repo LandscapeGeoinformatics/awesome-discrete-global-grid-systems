@@ -75,7 +75,8 @@ List of `awesome DGGS` categories mentioned below
 - https://github.com/paulojraposo/QTM
 - https://github.com/mocnik-science/geogrid.js
 - https://github.com/TaehoonK/dggs_code
-
+- https://pypi.org/project/vgrid/
+- https://www.npmjs.com/package/vgridjs
 
 ## OGC API DGGS and DGGS in the web
 
@@ -87,6 +88,8 @@ List of `awesome DGGS` categories mentioned below
 - https://github.com/allixender/dggs-webgis (older version)
 - https://deck.gl/docs/api-reference/geo-layers/h3-hexagon-layer
 - https://visgl.github.io/math.gl/docs/developer-guide/geospatial/dggs
+- https://vgrid.vn
+
 
 ## Other discrete global grid resources
 
