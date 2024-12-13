@@ -84,11 +84,13 @@ List of `awesome DGGS` categories mentioned below
 - https://docs.ogc.org/DRAFTS/21-038.html
 - https://ogcapi.ogc.org/dggs/
 - https://developer.ogc.org/api/dggs/index.html
+- https://terranexus.pangaeainnovations.com/
 - https://github.com/allixender/ogcapi-dggs-webdev-python (older version)
 - https://github.com/allixender/dggs-webgis (older version)
 - https://deck.gl/docs/api-reference/geo-layers/h3-hexagon-layer
 - https://visgl.github.io/math.gl/docs/developer-guide/geospatial/dggs
 - https://vgrid.vn
+- https://ecere.ca/gnosis/
 
 
 ## Other discrete global grid resources
@@ -99,6 +101,7 @@ List of `awesome DGGS` categories mentioned below
 - https://github.com/allixender/dggs_t1
 - https://github.com/LandscapeGeoinformatics/dggs_comparisons
 - https://github.com/allixender/dggs_webgen (needs update -> https://dggs-info.web.app/)
+- https://discreteglobal.wpengine.com/dggrid-users/
 - https://github.com/surroundaustralia/dggs-as-ont
 - https://w3c.github.io/sdw/eo-qb/
 - https://erin-1919.github.io/Advanced-Topics-on-DGGS/
