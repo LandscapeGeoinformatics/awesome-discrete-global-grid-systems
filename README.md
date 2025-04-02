@@ -25,10 +25,10 @@ If you like this Repo, Please click the :star:
 List of `awesome DGGS` categories mentioned below
 
 ## Contents
-  - [DGGS info and background](#DGGS info and background)
-  - [Libraries implementing grids](#Libraries implementing grids)
-  - [OGC API DGGS](#OGC API DGGS)
-  - [Other discrete global grid resources](#Other discrete global grid resources)
+  - [DGGS info and background](#dggs-info-and-background)
+  - [Libraries implementing grids](#libraries-implementing-grids)
+  - [OGC API DGGS](#ogc-api-dggs)
+  - [Other discrete global grid resources](#other-discrete-global-grid-resources)
   - [Contribute](#contribute)
 
 
@@ -81,7 +81,7 @@ List of `awesome DGGS` categories mentioned below
 ## OGC API DGGS and DGGS in the web
 
 - https://github.com/opengeospatial/ogcapi-discrete-global-grid-systems
-- https://docs.ogc.org/DRAFTS/21-038.html
+- https://docs.ogc.org/DRAFTS/21-038.html (Submission Date: 2025-02-13)
 - https://ogcapi.ogc.org/dggs/
 - https://developer.ogc.org/api/dggs/index.html
 - https://terranexus.pangaeainnovations.com/
@@ -119,7 +119,10 @@ Consider reviewing your contribution with some checks from [Awesome Manifesto pu
 
 ## Pangeo Discourse thread
 
-Link : https://discourse.pangeo.io/t/discrete-global-grid-systems-dggs-use-with-pangeo/2274
+Link: https://discourse.pangeo.io/t/discrete-global-grid-systems-dggs-use-with-pangeo/2274
+Pangeo XDGGS paper: [XDGGS: A community-developed Xarray package to support planetary DGGS data cube computations](https://isprs-archives.copernicus.org/articles/XLVIII-4-W12-2024/75/2024/)
+
+  Kmoch, A., Bovy, B., Magin, J., Abernathey, R., Coca-Castro, A., Strobl, P., Fouilloux, A., Loos, D., Uuemaa, E., Chan, W. T., Delouis, J.-M., and Odaka, T.: XDGGS: A community-developed Xarray package to support planetary DGGS data cube computations, Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-4/W12-2024, 75–80, https://doi.org/10.5194/isprs-archives-XLVIII-4-W12-2024-75-2024, 2024.
 
 ## :pencil: License
 
