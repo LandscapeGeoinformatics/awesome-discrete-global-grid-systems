@@ -42,6 +42,10 @@ List of `awesome DGGS` categories mentioned below
 - ISO Standard for DGGS: https://docs.ogc.org/as/20-040r3/20-040r3.html
 - Area and shape distortions in open-source discrete global grid systems: https://www.tandfonline.com/doi/full/10.1080/20964471.2022.2094926
 
+## If HEALPIX DGGS is all you need
+
+- https://github.com/pangeo-data/awesome-HEALPix
+
 ## Libraries and packages implementing grids
 
 - https://github.com/sahrk/DGGRID
@@ -51,6 +55,7 @@ List of `awesome DGGS` categories mentioned below
 - https://s2geometry.io/
 - https://github.com/riskaware-ltd/open-eaggr
 - https://github.com/mocnik-science/geogrid
+- https://github.com/ecere/dggal and https://dggal.org/
 
 ## Libraries and packages to work with grids
 
@@ -62,6 +67,7 @@ List of `awesome DGGS` categories mentioned below
 - https://github.com/conda-forge/dggrid-feedstock
 - https://healpy.readthedocs.io/en/latest/
 - https://cds-astro.github.io/cds-healpix-python/
+- https://github.com/Nvlabs/earth2grid
 - https://github.com/changliao1025/pyhexwatershed
 - https://github.com/dlr-eoc/ukis-h3cellstore
 - https://github.com/manaakiwhenua/raster2dggs
@@ -77,6 +83,7 @@ List of `awesome DGGS` categories mentioned below
 - https://github.com/TaehoonK/dggs_code
 - https://pypi.org/project/vgrid/
 - https://www.npmjs.com/package/vgridjs
+- https://github.com/CS-SI/dggs_tbx
 
 ## OGC API DGGS and DGGS in the web
 
