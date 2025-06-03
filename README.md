@@ -56,6 +56,8 @@ List of `awesome DGGS` categories mentioned below
 - https://github.com/riskaware-ltd/open-eaggr
 - https://github.com/mocnik-science/geogrid
 - https://github.com/ecere/dggal and https://dggal.org/
+- https://a5geo.org/
+- https://github.com/GeoPlegma/GeoPlegma
 
 ## Libraries and packages to work with grids
 
