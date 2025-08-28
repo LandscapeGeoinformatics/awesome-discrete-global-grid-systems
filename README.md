@@ -84,7 +84,7 @@ List of `awesome DGGS` categories mentioned below
 - https://github.com/mocnik-science/geogrid.js
 - https://github.com/TaehoonK/dggs_code
 - https://pypi.org/project/vgrid/
-- https://www.npmjs.com/package/vgridjs
+- https://www.npmjs.com/package/vgrid-maplibre
 - https://github.com/CS-SI/dggs_tbx
 
 ## OGC API DGGS and DGGS in the web
@@ -117,6 +117,7 @@ List of `awesome DGGS` categories mentioned below
 - https://github.com/IAAA-Lab/rhealpix-opendatacube-docker
 - https://github.com/changliao1025/hexwatershed
 - https://github.com/am2222/AGILECA
+- https://vgrid.gishub.vn/ 
 
 ## Contribute
 
