@@ -90,7 +90,7 @@ List of `awesome DGGS` categories mentioned below
 ## OGC API DGGS and DGGS in the web
 
 - https://github.com/opengeospatial/ogcapi-discrete-global-grid-systems
-- https://docs.ogc.org/DRAFTS/21-038.html (Submission Date: 2025-02-13)
+- https://docs.ogc.org/DRAFTS/21-038r1.html (Submission Date: 2025-02-13)
 - https://ogcapi.ogc.org/dggs/
 - https://developer.ogc.org/api/dggs/index.html
 - https://terranexus.pangaeainnovations.com/
