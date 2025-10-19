@@ -49,15 +49,17 @@ List of `awesome DGGS` categories mentioned below
 ## Libraries and packages implementing grids
 
 - https://github.com/sahrk/DGGRID
-- https://github.com/manaakiwhenua/rhealpixdggs-py
 - https://healpix.sourceforge.io/
+- https://github.com/cds-astro/cds-healpix-rust/
+- https://github.com/JuliaAstro/Healpix.jl
 - https://h3geo.org/
 - https://s2geometry.io/
-- https://github.com/riskaware-ltd/open-eaggr
-- https://github.com/mocnik-science/geogrid
 - https://github.com/ecere/dggal and https://dggal.org/
 - https://a5geo.org/
 - https://github.com/GeoPlegma/GeoPlegma
+- https://github.com/manaakiwhenua/rhealpixdggs-py
+- https://github.com/riskaware-ltd/open-eaggr
+- https://github.com/mocnik-science/geogrid
 
 ## Libraries and packages to work with grids
 
@@ -83,6 +85,7 @@ List of `awesome DGGS` categories mentioned below
 - https://github.com/paulojraposo/QTM
 - https://github.com/mocnik-science/geogrid.js
 - https://github.com/TaehoonK/dggs_code
+- https://vgridtools.gishub.vn/
 - https://pypi.org/project/vgrid/
 - https://www.npmjs.com/package/vgrid-maplibre
 - https://github.com/CS-SI/dggs_tbx
