@@ -45,6 +45,7 @@ List of `awesome DGGS` categories mentioned below
 ## If HEALPIX DGGS is all you need
 
 - https://github.com/pangeo-data/awesome-HEALPix
+- https://eopf-dggs.github.io/
 
 ## Libraries and packages implementing grids
 
