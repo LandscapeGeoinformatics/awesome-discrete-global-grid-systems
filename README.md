@@ -92,11 +92,13 @@ List of `awesome DGGS` categories mentioned below
 - https://www.npmjs.com/package/vgrid-maplibre
 - https://github.com/CS-SI/dggs_tbx
 - https://github.com/changliao1025/uraster
+- https://codeberg.org/alcinnz/libdggs
+
 
 ## OGC API DGGS and DGGS in the web
 
 - https://github.com/opengeospatial/ogcapi-discrete-global-grid-systems
-- https://docs.ogc.org/DRAFTS/21-038r1.html (Submission Date: 2025-02-13)
+- https://docs.ogc.org/is/21-038r1/21-038r1.html (Publication Date: 2025-10-03)
 - https://ogcapi.ogc.org/dggs/
 - https://developer.ogc.org/api/dggs/index.html
 - https://terranexus.pangaeainnovations.com/
